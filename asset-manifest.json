@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/roadmap-generator/static/css/main.951fb310.css",
-    "main.js": "/roadmap-generator/static/js/main.78c4e40f.js",
+    "main.js": "/roadmap-generator/static/js/main.b422df15.js",
     "static/js/453.8b0f8d6b.chunk.js": "/roadmap-generator/static/js/453.8b0f8d6b.chunk.js",
     "index.html": "/roadmap-generator/index.html",
     "main.951fb310.css.map": "/roadmap-generator/static/css/main.951fb310.css.map",
-    "main.78c4e40f.js.map": "/roadmap-generator/static/js/main.78c4e40f.js.map",
+    "main.b422df15.js.map": "/roadmap-generator/static/js/main.b422df15.js.map",
     "453.8b0f8d6b.chunk.js.map": "/roadmap-generator/static/js/453.8b0f8d6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.951fb310.css",
-    "static/js/main.78c4e40f.js"
+    "static/js/main.b422df15.js"
   ]
 }
